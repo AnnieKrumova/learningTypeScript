@@ -4,3 +4,7 @@ function testRest(...param : string[]){
 
 testRest();
 testRest("Seven is best boi.");
+
+function testOptional (param1 : number, param2 : number = 7) {
+
+}
